@@ -1,5 +1,4 @@
-## a developer of AI 
-- and I'm studying Python, C
+## a developer of AI and I'm studying Python, C
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
