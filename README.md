@@ -10,4 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crownsando&show_icons=true&theme=cobalt&title_color=7875f5&text_color=1a8df9&bg_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="crownsando" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaopqpw123&show_icons=true&theme=radical)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crownsando&show_icons=true&theme=merko&title_color=0f86f5&text_color=88c9fb&locale=en" alt="crownsando" /></p>
