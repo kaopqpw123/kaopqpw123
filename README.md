@@ -12,4 +12,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaopqpw123&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crownsando&show_icons=true&theme=merko&title_color=0f86f5&text_color=88c9fb&locale=en" alt="crownsando" /></p>
