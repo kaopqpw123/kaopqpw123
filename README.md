@@ -10,5 +10,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaopqpw123&show_icons=true&theme=cobalt&title_color=7875f5&text_color=1a8df9&bg_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="crownsando" /></p>
 
-(https://github-readme-stats.vercel.app/api?username=kaopqpw123&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaopqpw123&show_icons=true&theme=solarized-dark)
 
