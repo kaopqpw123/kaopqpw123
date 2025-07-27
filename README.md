@@ -8,7 +8,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crownsando&show_icons=true&theme=cobalt&title_color=7875f5&text_color=1a8df9&bg_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="crownsando" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaopqpw123&show_icons=true&theme=cobalt&title_color=7875f5&text_color=1a8df9&bg_color=ffffff&cache_seconds=1800&locale=en&layout=compact" alt="crownsando" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaopqpw123&show_icons=true&theme=radical)
 
